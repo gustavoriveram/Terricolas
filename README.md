@@ -1,1 +1,4 @@
-# terricolas
+# Terricolas
+Terricolas es el nombre del proyecto ganador de la [Hackathon Internacional "Laudato Si"](https://www.javeriana.edu.co/hackathon-laudato-si/), realizada los días 23, 24 y 25 de septiembre del año 2020, donde participaron un total de 20 equipos, sumando 120 alumnos de universidades de Argentina, Chile, Colombia, España y México. 
+La idea del equipo ganador *Natuhackers*, consistió en una aplicación web para educación ecológica (sólo se realizó un prototipo), orientada en primera instancia a niños. Para el boceto de la misma utilizamos el programa de diseño de interfaces *Figma* y el prototipo se realizó en *Flutter*. 
+Mi tarea fue desarollar una Landing Page que presente la propuesta del equipo y permita desacargar el apk de la aplicación. Para ello utilicé **React.js** y **SASS**, partiendo de la plantilla [open-react-template](https://github.com/cruip/open-react-template). Todo el código de la página se encuentra en este repositorio.
